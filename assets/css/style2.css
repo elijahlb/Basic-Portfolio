@@ -38,20 +38,10 @@ a:link, a:visited {
     border-right: solid 1px;
 }
 /* Navigation Bar End------------------------------------*/
-#aboutme {
+#contact {
     color: #4aaaa5;
     margin-left: 32px;
     padding-top:20px;
-}
-
-#myface {
-    width: 140px;
-    height: 180px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-top: 25px;
-    float: left;
 }
 
 #maincontainer {
@@ -65,7 +55,7 @@ a:link, a:visited {
 
     
 }
-#aboutmewrapper {
+#contactwrapper {
     border-style: solid 2px;
     background-color:white;
     width: 960px;
@@ -74,10 +64,6 @@ a:link, a:visited {
 }
 hr {
     width: 950px;
-}
-
-#submittable {
-  
 }
 
 footer {

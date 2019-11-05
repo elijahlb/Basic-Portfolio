@@ -4,24 +4,35 @@
     padding-top:20px;
 }
 
+.label {
+    padding-left:5px;
+    padding-top:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #name {
     width:500px;
+    margin-left:5px;
 }
 
 #email {
     width:500px;
+    margin-left:5px;
 }
 
 #message {
     height:200px;
     width:500px;
-    
+    margin-left:5px;
 }
 
 #submit {
     background-color:#4aaaa5;
-    padding:20px;
-    
+    width:150px;
+    height:30px;
+    margin:10px;
+    border: none;
+
 }
 
 

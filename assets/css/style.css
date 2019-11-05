@@ -1,3 +1,4 @@
+
 #myname {
     background-color: #4aaaa5;
     width: 200px;
@@ -62,6 +63,7 @@ a:link, a:visited {
     border-left: none;
     border-top: solid 1px #777777;
     border-bottom: solid 8px #4aaaa5;
+    background-image: url("../images/purty_wood.png")
 }
 
 #aboutmewrapper {

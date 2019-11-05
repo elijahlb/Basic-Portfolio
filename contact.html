@@ -2,7 +2,8 @@
 <html>
     <head>
         <title>Elijah Broaddus - Contact</title>
-        <link rel='stylesheet' type='text/css' href='assets/css/style2.css'>
+        <link rel='stylesheet' type='text/css' href='assets/css/style.css'>
+        <link rel='stylesheet' type='text/css' href='assets/css/contact.css'>
         <div id='navbar'>
           <ul id='navlist'>
             <li class='navright'><a href='index.html'>About</a></li>
@@ -13,18 +14,25 @@
     </head>
     <body>
         <div id='boxfloat'><h2 id='myname'>Elijah Broaddus</h2></div>
-        <div id='maincontainer' style="background-image: url('assets/images/email-pattern.png');">
-        <div id='contactwrapper'>
+        <div id='maincontainer' class='clearfix' style="background-image: url('assets/images/email-pattern.png');">
+        <div id='aboutmewrapper'>
         <h2 id='contact'>Contact</h2>
                 <hr>
                     <div id='submittable'>
-                        <label>Name</label>
+                        <div>Name</div>
+                        <br/>
                         <input type='text' id='name' placeholder='John Smith'>
-                        <label>Email</label>
+                        <br/>
+                        <div>Email</div>
+                        <br/>
                         <input type='text' id='email' placeholder='example.com'>
-                        <label>Message</label>
+                        <br/>
+                        <div>Message</div>
+                        <br/>
                         <input type='text' id='message'>
-                   </div>
+                        <br/>
+                        <input type='submit' id='submit'>
+                    </div>
         </div>
         </div>
 

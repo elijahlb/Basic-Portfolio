@@ -1,0 +1,27 @@
+#contact {
+    color: #4aaaa5;
+    margin-left: 5px;
+    padding-top:20px;
+}
+
+#name {
+    width:500px;
+}
+
+#email {
+    width:500px;
+}
+
+#message {
+    height:200px;
+    width:500px;
+    
+}
+
+#submit {
+    background-color:#4aaaa5;
+    padding:20px;
+    
+}
+
+

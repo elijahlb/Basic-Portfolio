@@ -49,8 +49,8 @@ a:link, a:visited {
     height: 180px;
     padding-left: 25px;
     padding-right: 25px;
-    padding-bottom: 25px;
     padding-top: 25px;
+    padding-bottom: 25px;
     float: left;
 }
 
@@ -62,22 +62,21 @@ a:link, a:visited {
     border-left: none;
     border-top: solid 1px #777777;
     border-bottom: solid 8px #4aaaa5;
-
-    
 }
+
 #aboutmewrapper {
     border-style: solid 2px;
     background-color:white;
     width: 960px;
     margin-left:180px;
-    margin-bottom: 100px;
+    margin-bottom: 300px;
 }
 hr {
     width: 950px;
 }
 
-#submittable {
-  
+p {
+    line-height: 2;
 }
 
 footer {

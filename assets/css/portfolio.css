@@ -15,19 +15,30 @@ h4 {
     margin-left:20px;
     margin-top:125px;
 }
+#cloudy {
+    margin-left: 10px;
+}
+#hangman {
+    margin-top:-15px;
+    margin-left: 10px;
+}
 
+#guesswho {
+    margin-top: -15px;
+    margin-left: 10px;
+}
 #llama {
     position:absolute;
     float:right;
-    margin-left:230px;
-    margin-top:-582px;
+    margin-left:240px;
+    margin-top:-552px;
 }
 
 #rpg {
     position:absolute;
     float:right;
-    margin-left:230px;
-    margin-top:-387px;
+    margin-left:240px;
+    margin-top:-372px;
 }
 
 .picbox {

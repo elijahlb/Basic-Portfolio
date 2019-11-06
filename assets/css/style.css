@@ -65,12 +65,13 @@ a:link, a:visited {
     width:100%;
     border-top: solid 1px #777777;
     border-bottom: solid 8px #4aaaa5;
-    background-image: url("../images/purty_wood.png");
+    background-image: url("../images/retro-furnish.png");
     overflow:hidden;
 }
 
 #aboutmewrapper {
     border-style: solid 2px;
+    border-radius: 20px;
     background-color:white;
     width: 62.5%;
     margin-left:18%;
@@ -101,4 +102,5 @@ footer {
     background-color: #666666;
     color: white;
     padding-top: 40px;
+    flex-shrink: 0;
 }

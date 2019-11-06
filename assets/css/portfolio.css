@@ -17,26 +17,26 @@ h4 {
     margin-left:20px;
     margin-top:125px;
 }
-#cloudy {
+#bakeshop {
     margin-left: 10px;
 }
-#hangman {
+#dice {
     margin-top:-15px;
     margin-left: 10px;
 }
 
-#guesswho {
+#safari {
     margin-top: -15px;
     margin-left: 10px;
 }
-#llama {
+#nature {
     position:absolute;
     float:right;
     margin-left:240px;
     margin-top:-552px;
 }
 
-#rpg {
+#parks {
     position:absolute;
     float:right;
     margin-left:240px;
@@ -54,7 +54,7 @@ h4 {
   
 .container:hover .picbox {
     opacity: 0.3;
-    transform: skew(23deg);
+    border: 2px black solid;
   }
   
 

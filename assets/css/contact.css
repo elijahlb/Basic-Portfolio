@@ -9,8 +9,10 @@
 .label {
     padding-left:5px;
     padding-top:10px;
-    margin-left:32px;
+    margin-left:28px;
+    margin-bottom:-15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
 }
 
 #name {

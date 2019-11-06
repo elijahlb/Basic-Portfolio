@@ -25,6 +25,7 @@
     padding: 0;
     float: right;
 }
+
 #boxfloat {
     padding-left: 32px;
 }
@@ -54,10 +55,11 @@ a:link, a:visited {
 #myface {
     width: 140px;
     height: 180px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 2px solid black;
     float: left;
 }
 
@@ -95,6 +97,7 @@ p {
     line-height: 2;
     margin-left:20px;
     margin-right:20px;
+    margin-bottom:20px;
 }
 
 footer {

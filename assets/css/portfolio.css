@@ -2,6 +2,8 @@
     color: #4aaaa5;
     margin-left: 32px;
     padding-top:20px;
+    border-bottom:7px solid #4aaaa5;
+    border-bottom-right-radius: 15px;
 }
 
 h4 {
@@ -41,7 +43,6 @@ h4 {
     margin-top:-372px;
 }
 
-
 .picbox {
     height: 150px;
     width: 200px;
@@ -53,6 +54,7 @@ h4 {
   
 .container:hover .picbox {
     opacity: 0.3;
+    transform: skew(23deg);
   }
   
 

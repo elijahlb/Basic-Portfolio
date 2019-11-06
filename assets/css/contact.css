@@ -2,6 +2,8 @@
     color: #4aaaa5;
     margin-left:32px;
     padding-top:20px;
+    border-bottom:7px solid #4aaaa5;
+    border-bottom-right-radius: 15px;
 }
 
 .label {
@@ -12,18 +14,18 @@
 }
 
 #name {
-    width:500px;
+    width:38%;
     margin-left:32px;
 }
 
 #email {
-    width:500px;
+    width:38%;
     margin-left:32px;
 }
 
 #message {
     height:200px;
-    width:500px;
+    width:38%;
     margin-left:32px;
 }
 

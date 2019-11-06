@@ -1,37 +1,41 @@
 #contact {
     color: #4aaaa5;
-    margin-left: 5px;
+    margin-left:32px;
     padding-top:20px;
 }
 
 .label {
     padding-left:5px;
     padding-top:10px;
+    margin-left:32px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #name {
     width:500px;
-    margin-left:5px;
+    margin-left:32px;
 }
 
 #email {
     width:500px;
-    margin-left:5px;
+    margin-left:32px;
 }
 
 #message {
     height:200px;
     width:500px;
-    margin-left:5px;
+    margin-left:32px;
 }
 
 #submit {
     background-color:#4aaaa5;
     width:150px;
     height:30px;
-    margin:10px;
+    margin-left:32px;
+    margin-top:10px;
+    margin-bottom:10px;
     border: none;
+    color:white;
 
 }
 

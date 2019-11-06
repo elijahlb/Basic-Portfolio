@@ -41,10 +41,18 @@ h4 {
     margin-top:-372px;
 }
 
+
 .picbox {
     height: 150px;
     width: 200px;
     padding: 20px;
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
-
+  
+.container:hover .picbox {
+    opacity: 0.3;
+  }
+  
 
